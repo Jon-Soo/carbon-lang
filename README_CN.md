@@ -12,8 +12,6 @@
 
 
 
-<div><a href="#"><img src="docs/images/bumper.png"></a></div>
-
 **快速且可与 C++ 一起使用**
 
 - 性能与使用 LLVM 的 C++ 匹配，具有对位的低级访问和
