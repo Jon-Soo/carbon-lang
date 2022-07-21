@@ -10,9 +10,6 @@
 
 <a href="docs/images/snippets.md#quicksort">
 
-<img src="docs/images/quicksort_snippet.svg" align="right" width="575"
-     alt="Carbon 中的快速排序代码。点击链接阅读更多内容。">
-</a>
 
 
 <div><a href="#"><img src="docs/images/bumper.png"></a></div>
